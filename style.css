@@ -1,0 +1,74 @@
+body
+{background-color:HoneyDew;}
+
+h1
+{
+ background-color:peru;
+ font-face: Rockwell Extra Bold;
+ font-size: 40px;
+ color: white;
+ border: solid;
+ border-color: #FireBrick;
+ border-radius: 50px;
+}
+
+h2
+{
+ background-color: PeachPuff;
+ font-face: algerian;
+ font-size: 35px;
+ color: maroon;
+ text-allign: center;
+ border: solid;
+ border-color: white;
+ border-radius: 50px; 
+}
+
+h3
+{
+ font-face: algerian;
+ font-size: 30px;
+ color: SlateGray ;
+ text-allign: center;
+}
+
+h4
+{
+ font-face: algerian;
+ font-size: 25px;
+ color: indianred;
+ text-allign: center;
+}
+
+p 
+{
+ background-color: papayawhip;
+ font-size: 30px;
+ text-align: center;
+ color:Teal;
+ font-family: 'danion, cursive'
+ pedding: 15px;
+
+ border: white;
+ border-color: white;
+ border-bottom-right-radius: 10px;
+}
+
+a:link, a:visited
+{
+ background-color: paleTurquoise;
+ color: Peru;
+ text-allign: center;
+ text-decoration: none;
+ display: inline-block;
+ border:solid;
+ border-top-left-radius: 15px;
+ border-bottom-right-radius: 15px;
+ 
+}
+
+a:hover, a:active
+{
+ background-color: wheat;
+ color: black;
+}
